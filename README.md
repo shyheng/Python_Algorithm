@@ -1,2 +1,2 @@
-# Python_Algorithm_AI
-简单_基础算法
+# Python
+基础语法和简单_基础算法
